@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import os
 import time
 
@@ -11,11 +9,11 @@ def image_only(files):
 
 	return imgs
 
-#time-interval for next image in seconds
-delay = 1
+#time-interval for next image in seconds. default is 10 mins.
+delay = 10*60
 
 #path to the wallpapers' folder
-path = '/mnt/5F24F66C7C36D617/Walpapers/Anime style ???'
+path = '/path_to_wallpapers_folder'
 
 #no. of files will also include files with other extensions besides image 
 #so be carefull cause any other file will f*ck up the program
