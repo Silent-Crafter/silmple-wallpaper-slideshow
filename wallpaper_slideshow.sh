@@ -1,3 +1,3 @@
 #!/bin/bash
 cd ~/Documents
-nohup ./wallpaper_slideshow.py &
+nohup /usr/bin/python3 wallpaper_slideshow.py &
