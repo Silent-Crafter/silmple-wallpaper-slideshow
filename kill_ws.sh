@@ -1,2 +1,2 @@
 #!/bin/bash
-pkill -f 'python3 ./wallpaper_slideshow.py'
+pkill -f '/usr/bin/python3 wallpaper_slideshow.py'
