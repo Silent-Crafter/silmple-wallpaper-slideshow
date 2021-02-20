@@ -1,4 +1,4 @@
-# silmple-wallpaper-slideshow
+# simple-wallpaper-slideshow
 
 A python script to change desktop wallpaper autmatically after a given period of time. 
 
